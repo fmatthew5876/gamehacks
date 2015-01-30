@@ -1,0 +1,664 @@
+28AEXXXX
+
+1H Swords:
+8155 - Walloon Sword
+8156 - Lightning Sword
+8157 - Ice Blade
+8158 - Isberg
+8159 - Khukri
+815A - Fandango
+815B - Nifrit Sword
+815C - Lombardia (lvl 2)
+815D - Khumbhira
+815E - Odiferous Water
+815F - ???
+8160 - Ambicion
+8161 - Brynhildr
+8162 - Daedalus Blade
+8163 - Oracion
+8164 - Fafnir's Heart
+8165 - Leksar's Beloved
+
+2H Swords -
+8166 - Broadsword
+8174 - Damasc Sword
+8175 - Desert Blade
+8176 - Gaia Blade
+8177 - The Headsman
+8178 - The Dark Headsman
+8179 - Rhomphaia
+817A - The Grasshewer Blade
+817B - Notos
+817C - Balmung
+817D - Ishana
+817E - Durandal
+817F - Moon Blade
+
+Axes:
+8181 - Hand Axes
+
+1H Katanas:
+81E0 - Muso Blade
+81E1 - Superior Muso Blade
+81E2 - Tigerblade
+81E3 - Superior Tigerblade
+81E4 - Ghostblade
+81E5 - Superior Ghostblade
+81E5 - Brahma
+81E6 - Superior Brahma
+81E7 - The Awakener
+81E8 - Thunderfire
+81E9 - Golok
+81EA - Bakasura
+81EB - Shimmer Sword
+
+2H Katanas:
+81EC - Tachi
+
+Cudgels:
+8212 - Damasc Mace
+8213 - Damasc Mace + 1
+8214 - Staff of Restoration
+8215 - Staff of Purification
+8216 - Malitza's Staff
+8217 - Wand of Air
+8218 - Wand of Earth
+8219 - Wand of Lightning
+821A - Wand of Water
+821B - Wand of Fire
+821C - Wand of Ice
+821D - Lipul's Rod
+821E - Sagara
+821F - Sage Staff
+821G - Wiseman's staff
+
+Whips:
+821E - Bullwhip
+821F - Bullwhip + 1
+8220 - Spiked Laurel
+8221 - Spiked Laurel +1
+8222 - Rose Whip
+8223 - Clearcrack Whip
+8224 - Holy Comet
+8225 - Blood Whip
+8226 - Supple WHipe
+8227 - Cat o' Nine Tails
+
+Spellbooks:
+8228 - Biblion Anatomiae
+8233 - Biblion Pupparis
+8234 - Gran Grimoire
+
+Instruments:
+8235 - Pandeiro
+8236 - Pandeiro +1
+8237 - Bolon
+8238 - Bolon + 1
+8239 - cavaquinho
+823A - Cavaquinho + 1
+823B - Gerza's Atabaque
+823C - Rabana's Kememnche
+823D - Rabana's Tanbur
+823E - Livela's Harp
+
+Blowguns:
+823F - Gerges Blowgun
+8240 - Stundart Blowgun
+8241 - Wortdart Blowgun
+8242 - Frogdart Blowgun
+8243 - Mutedart Blowgun
+8244 - Petridart Blowgun
+8245 - Baldur Blowgun
+8246 - Damasc Blowgun
+8247 - Femakk's Blowgun
+
+
+Bows:
+8249 - Shortbow
+8259 - Permafrost Bow
+825A - Ixquimilli's Bow
+825B - Tempest Bow
+825C - Garuda Bow
+825D - Thunder Bow
+825E - Indra's Bow
+825F - Brimstone Bow
+8260 - Sirocco Bow
+8261 - Ji'ygla's Bow
+8262 - Pajra
+8263 - Centetl's Rib
+
+Crossbows:
+8264 - Crossbow
+826D - Heavy Crossbow +1
+8274 - Roodbow
+8275 - Al-iklil
+8276 - Keening Bowgun
+8277 - Daedalus Bowgun
+8278 - Samak
+8279 - Leilah
+827A - Shams
+827B - Ysaar
+827C - Barad
+827D - Raed
+
+Guns:
+827F - Rimfire
+8280 - RimFire + 1
+8281 - Cmdr Gun
+8282 - Cmd Gun + 1
+8283 - Musket
+8284 - Musket + 1
+8285 - Petronel
+8286 - Banduq-i-chaqmaqi
+8287 - Snug Fusil
+8288 - LongGun
+
+Sheilds:
+82AB - Damasc Sheild
+82AC - Damasc Sheildd + 1
+82AD - Dragon Scale
+82AE - Ancient Dragon Scale
+82AF - Rozenzi Sheild
+82B0 - Dread Sheild
+82B1 - Shield of the Winds
+82B2 - Shield of the Loam
+82B3 - Shield of the Storm
+82B4 - Shield of the Waves
+82B5 - Shield of the Flames
+82B6 - Shield of the Tundra
+82B7 - Shield of Sages
+82B8 - Ogre Sheild
+82B9 - Aegis
+82BA - Medusa Sheild
+
+Helmits
+82BB - Circlet
+82BC - Circlet +1
+82C3 - Damasc Helm
+82C4 - Damasc Helm +1
+82C5 - Holy Crown
+82C6 - Wyrmscale Helm
+82C7 - Glistening Helm
+82C8 - Ogre Helm
+82C9 - Skull Mask
+82CA - Fruede Helm
+
+
+Armor:
+82CB - Robe
+82CC - Robe +1
+82D6 - Brigandine +1
+82D9 - Damasc Mail
+82DA - Damasc Mail + 1
+82DB - Wyrmscale Armor
+82DC - Reeking Armor
+82DD - Robes of the Gale
+82DE - Robes of the Dust
+82DF - Robes of the Storm
+82E0 - Robes of the Cataract
+82E1 - Robes of the Inferno
+82E2 - Robes of the Black Ice
+82E3 - Robes of Radiance
+82E4 - Robes of Gloom
+82E5 - Falcon Feathercoat
+82E6 - Nathalork Rockcoat
+82E7 - Viraat's Thundercoat
+82E8 - Whale Whiskercoat
+82E9 - Phoenix Flamecoat
+82EA - Vikrant Icecoat
+82EB - Aganista Lightcoat
+82EC - Ji'gla's Darkcoat
+82ED - Falcon Mail
+82EE - Nathalork Mail
+82EF - Alluring Dress
+82F0 - Viraat's Mail
+82F1 - Ur-Whale Mail
+82F2 - Phoenix Mail
+82F3 - Vikrant Mail
+82F4 - Titania Mail
+82F5 - Thanatos Armor
+82F6 - Garb of the Sages
+82F7 - Ogre Armor
+
+Arms:
+82F8 - Leather Gloves
+82F9 - Leather Sleeves
+82FA - Leather Sleeves + 1
+82FB - Gauntlets
+82FC - Gauntles + 1
+82FD - Baldur Gauntlets
+82FE - Baldur Gauntlets + 1
+82FF - Nomad Bracers
+8300 - Nomad Bracers + 1
+8301 - Overguards
+8302 - Overguards + 1
+8303 - Damasc Mitts
+8303 - Damasc Mitts + 1
+8304 - Arkhiatros Mitts
+8305 - Mage's Mitts
+8306 - Wyrmscale Sleeves
+8309 - Musty Gauntlets
+830A - Ji'gla's Bracers
+830B - Lightning Gauntles
+830C - Fire Gauntlets
+830D - Luminant Gauntlets
+830E - Daedalus Gauntlets
+830F - Snipe Braces
+
+
+Leggguard
+8310 - Linen Slops
+8313 - Damasc Leggings +1
+8314 - Arkhiatros Trousers
+8315 - Mage Trousers
+8316 - Cloud Shoes
+8317 - Winged Shoes
+8318 - Sidhe Shoes
+8319 - Sparkguard Boots
+8320 - Greased Boots
+8321 - Earthen Graves
+8322 - Watery Greaves
+8323 - Hoarfrost Greaves
+8324 - Shadowed Greaves
+8325 - Alluring Highboots
+8326 - Snipe Gators
+
+Accessories:
+8327 - Crimson Necklace
+8328 - Azure Necklace
+8329 - Warrior Ring
+832A - Warrior Ring + 1
+832B - Defenders Ring
+832C - Defenders Ring +1
+832D - Ring of the Horde
+832E - Ring of the Horde +1
+832f - Ring of Vitality
+8330 - Ring of Vitality + 1
+8331 - Ring of Deftness
+8332 - Ring of Deftness +1
+8333 - Ring of Alacrity
+8334 - Ring of Alacrity + 1
+8335 - Ring of Evasion
+8336 - Ring of Evasion + 1
+8337 - Ring of Intellect
+8338 - Ring of Intellect + 1
+8339 - Ring of Mind
+833A - Ring of Mind +1
+833B - Mageband Ring
+833C - Mageband Ring +1
+833D - Band of Fortune
+833E - Band of Fortune +1
+833F - Beast's Earring
+8340 - Wasp's Earring
+8341 - Guardsman's Earring
+8342 - Swordsmans's Earring 
+8343 - Barbarian's Earring
+8344 - Spearman's Earring
+8345 - Temblor Earring
+8346 - Crescent Earring
+8347 - Sunfire Earring
+8348 - Siant's Earring
+8349 - Earring of the Snake
+834A - Scrivener's Earring
+834B - Canso Earring
+834C - Earring of Stillness
+834D - Stalker's Earring
+834E - Archer's Earring
+834F - Farseer's Earring
+8350 - Gale Choker
+8351 - Dust Choker
+8352 - Storm Choker
+8353 - Cataract Choker
+8354 - Firewyrm Choker
+8355 - Black Ice Choker
+8356 - Saint King's Choker
+8357 - Ghast's Choker
+8358 - Ring of Clouds
+8358 - Winged Ring
+8359 - Sidhe Ring
+835A - Sparkguard Ring
+835B - Greased Ring
+835C - Reaver Ring
+
+Consumables
+83DB - Dragon Steak
+83DC - Braised Skewer
+83DD - Steamed Mollusk
+83DE - Minced Patty
+
+
+Regeants:
+83DF - Wyrm Stone
+83E0 - Dried Eyestem
+83E1 - Shoulder Shard
+83E2 - Salted Lobe
+
+Consumables:
+83E4 - Brand of Sacrifice
+83E5 - Dynast King's Mead
+83E6 - Echo Stone
+83E7 - Blackwing Leg
+83E8 - Rood Upright
+83E9 - Haunt's Tome
+83EA - Darkscale Tome
+83EB - Cursed Unicorn Blood
+83EC - Skulldust Nostrum
+83ED - Magedrain Gland
+83EE - Shiftstone
+83EF - Horn of the Savage
+83F0 - Coral Harp
+83F1 - Whirlwind shot
+83F2 - Duststorm shot
+83F3 - Thunder Shot
+83F4 - Torrent Shot
+83F5 - Conflagration Shot
+83F6 - Firnice Shot
+83F7 - Coruscate Shot
+83F8 - Murk Shot
+83F9 - Book of the Dead
+83FA - Ring of the Dead
+83FB - Ensanguined Rood
+83FC - Seal of Rebirth
+83FD - Void orb
+83FE - Gale Orb
+83FF - Dust Orb
+8400 - Storm Orb
+8401 - Cataract Orb
+8402 - Inferno Orb
+8403 - Black Ice Orb
+8404 - Radiant Orb
+8405 - Gloom orb
+8406 - Elixir
+8407 - Charm of Remission
+
+Regeants:
+8408 - Songstress Score
+
+????
+8409 - ???
+
+Consumables:
+840A - The Magician
+840B - The High priestess
+840C - The Empress
+840D - The Emperor
+840E - The Hierophant
+840F - The Lovers
+8410 - The Charior
+8411 - Strength
+8412 - The Hermit
+8413 - Wheel of Fortune
+8414 - Justice
+8415 - The Hanged Man
+8416 - Death
+8417 - Temperence
+8418 - The Devil
+8419 - The Tower
+841A - The Star
+841B - The Moon
+841C - The Sun
+841D - Judgement
+841E - The World
+841F - The Fool
+
+Regeants:
+8420 - Vibrant Whetstone
+8421 - Attercob Web
+8422 - Nightjar Bell
+8423 - Tortoiseshell Pin
+8424 - Fuse Ash
+8425 - Crow Track
+8426 - Short Kunai
+8427 - Grappling Hook
+8428 - Water Striders
+8429 - Paper Doll
+842A - Horse Bit
+842B - Beaded Frogwax
+842C - Vermin Ichor
+842D - Fan of the Brave
+842F - Fan of the Merciful
+8435 - Fan of Charisma
+8436 - Copper Oberyth
+8439 - Gold Oberyth
+
+Magic (air):
+8441 - Grimoire Tourbillon II
+
+
+Magic (Fire):
+8483 - Bouledefeu
+
+Magic (Ice):
+8496 - Glace
+
+Maguc (Light):
+84A8 - Radience
+84A9 - Radience 2
+84AA - Radience 3
+84AB - Radience 4
+84AC - Punition
+84AD - Punition 2
+84AE - Punition 3
+84AF - Punition 4
+84B0 - Lumina
+84B1 - Lumina 2
+84B2 - Chatiment
+84B3 - Chatiment 2
+84B4 - Exorcisme
+84B5 - Exorcisme 2
+84B6 - Infulumiere
+84B7 - Anitlumiere
+84B8 - Scellant
+84B9 - Celerite
+84BA - Annulation
+84BB - Reveil
+84BC - Reveil 2
+84BD - Vivacite
+84BE - Volubilite
+84BF - Defigeant
+84C0 - Fluidite
+84C1 - Purete
+84C2 - Purete 2
+84C3 - Mobilite
+84C4 - Benediction
+84C5 - Bravoure
+84C6 - Purgation
+84C7 - Vitalite
+84C8 - Vitalite 2
+84C9 - Vitalite 3
+84CA - Vitalite 4
+84CB - Soins
+84CC - Soins 2
+84CD - Soins 3
+84CE - Resurrection
+84CF - Resurrection 2
+
+
+Magic (Dark):
+84D0 - Douleur
+
+Magic (Dragon)
+84F0 - Tempete
+
+Magic (Necro)
+8510 - Mortivivant
+
+Magic (Nijutsu)
+8520 - Windshear
+
+Magic (Dance):
+8534 - Courage
+
+Magic (song):
+853C -Devil
+
+Class Marks:
+8545 - Warriors Mark
+8546 - Archers Mark
+8547 - Mage's Mark
+8548 - Sibyl's Mark
+8549 - Mage Knight's Mark
+854A - Knight's Mark
+854B - Dreadknight's mark
+854C - Berserker's Mark
+854D - Swordsman's mark
+854E - Dragoon's mark
+854F - Ninja' Mark
+8550 - Bandit's Mark
+8551 - Fusilier's Mark
+8552 - Beastmaster's Mark
+8553 - Magus' Mark
+8554 - Necroprentice's Mark
+8555 - Foot Soldier's Mark
+8556 - Juggernauts mark
+8557 - Cheif's Mark
+8558 - Familiar's Mark
+855A - WindWyrm's Mark
+
+8565 - Magesteel's Mark
+
+8566 - Soverein's mark
+8567 - Brave's Mark
+8568 - Abuna's Mark
+8569 - Heretic's Mark
+856A - Princess's Mark
+856B - Holy Knight's Mark
+856C - Star Seer's Mark
+856D - Peregrine's Mark
+856E - White Knight's Mark
+856F - Oracle's Mark
+8570 - Wicce's Mark
+8571 - Songstress's Mark
+8572 - HagiaKnights' Mark
+8573 - Pirate's Mark
+
+Ingredients:
+8574 - Unrefined Ore
+8580 - Limestone
+8581 - SkyIron
+8582 - Gemstones
+8583 - Krystalos Ore
+8584 - Bronze Ingot
+8585 - Iron Ingot
+8586 - SIlver Ingot
+8587 - Baldur Ingot
+8588 - Steel Ingot
+8589 - Hagane Steel
+858A - Wootz Steel
+858B - Golden Ingot
+858C - Platinum Ingot
+858D - Fiery Gems
+858E - Verdant Gems
+858F - Regal Gems
+8590 - White Gems
+8591 - Black Gems
+8592 - Air Krystallos
+8593 - Earth Krystallos
+8594 - Lightning Krystallos
+8595 - Water Krystallos
+8596 - Fire Krystallos
+8597 - Ice Krystallos
+8598 - Light Krystallos
+8598 - Dark Krystallos
+8599 - ToneriWood
+859A - BirneWood
+859B - Ananawood
+859C - Baobawood
+859D - Beasthide
+859E - Tannin
+85A0 - Leather
+85A1 - Parchment
+85A2 - Ink
+55A3 - Goldleaf
+85A4 - Water
+85A5 - Log
+85A6 - Bundle of Herbs
+85A7 - Herbal Extract
+95A8 - Nightshade
+85A9 - Nightshad Extract
+95AA - Fruit
+95AB - Spirits
+95AC - Hempen Thread
+95AD - Woolen Thread
+95AE - Cotton Thread
+85AF - Silen Thrad
+85B0 - Silver Trhread
+85B1 - Golden Thread
+85B2 - Linen
+85B3 - Pincord
+85B4 - Flanned
+85B5 - Velvet
+85B6 - Satin
+85B7 - Blackpowder
+85B8 - Beast Horn
+85B9 - Beast Fang
+85BA - Beast Claw
+85BB - Wyrm Fang
+85BC - Wyrm Claw
+85BD - Wyrm Scale
+85BE - Wyrm Horn
+85BF - Wyrm Whisker
+85C0 - Wyrm ThighBone
+85C1 - Tooth and Clow
+85C2 - Unicorn Horn
+85C3 - Enchanted Feather
+85C4 - Ancient Wood
+85C5 - Ancient Bone
+85C6 - Orichalcum
+85C7 - Gorgon Head (**consumable**)
+85C8 - Daedalus Pinion
+85C9 - Daedalus Rack
+
+
+Recipes:
+85CA - Melee Weapons I
+85CB - Melee Weapons II
+85CC - The Fist
+85CD - Fist Enchridion
+85CE - The Blade
+85CF - Dagger Enchridion
+85D0 - Sword Enchridion
+85D1 - 2-H Sword Enchridion
+85D2 - Axe, Spear, & Hammer
+85D3 - Axe Enchridion
+85D4 - Spear Enchridion
+85D5 - Hammer Enchridion
+85D6 - The Katana
+85D7 - Katana Enchridion
+85D8 - 2-H Katan Enchridion
+85D9 - Cudget&Whip
+85DA - Cudgel Enchridion
+85DB - Whip Enchridion
+85DC - Transcription
+85DD - Musical Instruments I
+85DE - Musical Instruments II
+85DF - Ranged Weapons I
+85E0 - Ranged Weapons II
+85E1 - Way of the Gerges
+85E2 - The Bow
+85E3 - Bow Enchridion
+85E4 - The Crossbos
+85E5 - Crossbos Enchridion
+85E6 - The Fusil
+85E7 - Fusil Enchridion
+85E8 - Thrown Weapons I
+85E9 - Thrown Weapons II
+85EA - Smithing Armor 1
+85EB - Smithing Armor II
+85EC - ArmorCraft
+85ED - ShielfCraft
+85EE - Shield Enchridion
+85EF - Helm Enchridion
+85F0 - Body Armor Enchridion
+85F1 - Armguard Enchridion
+85F2 - Legguard Enchridion
+85F3 - Codex of Jewelry I
+85F4 - Codex of Jewelry II
+85F5 - Code of Jewelry III
+85F6 - Codex of Jewelry IV
+85F7 - Codes of ores
+85F8 - Codes of Gems
+85F9 - Codex of Timber
+85FA - Coded of Textiles
+85FB - On Medicine I
+85FC - On Medicine II
