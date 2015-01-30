@@ -1,0 +1,111 @@
+28ADXXXX
+
+84EC - Conditions
+84ED - Char 1 class
+
+A47D - Portrait
+A488 - Current HP
+A48E - Max HP
+A490 - Max MP
+A4C1 - Class
+
+28AE
+7E98 - Warrior Level (4 bytes)
+7E9C - Warrior EXP (4 bytes)
+7EA0 - Archer Level
+
+Class List:
+00 - nothing
+01 - Warrior
+02 - Archer
+03 - Wizard
+04 - Cleric
+05 - Rune Fencer / Valkyrie
+06 - Knight
+07 - Terror Knight
+08 - Berserker
+09 - Swordmaster
+0A - Dragoon
+0B - Ninja / Kunoichi
+0C - Rogue
+0D - Fusilier
+0E - Beast Tamer
+0F - Warlock / Witch
+10 - Necromancer
+11 - Lich
+12 - Divine Knight
+13 - Hoplite
+14 - Juggernaut
+15 - Patriarch
+16 - Familiar
+17 - 1A BLANK
+1B = Cloud Dragon
+1C = Earth Dragon
+1D = Thunder Dragon
+1E = Flood Dragon
+1F = Flame Dragon
+20 = Frost Dragon
+21 = Arc Dragon
+22 = Dark Dragon
+23 = Hydra
+24 = Clay Golem
+25 = Stone Golem
+26 = Iron Golem
+27 = Baldur Golem
+28 = Gryphon
+29 = Cockatrice
+2A = Octopus
+2B = Cyclops
+2C - 32 BLANK
+33 = Lord
+34 = Ranger
+35 = Priest
+36 = Dark Priest
+37 - Princess
+38 - Paladin
+39 - Astromancer
+3A - Vartan
+3B - White Knight
+3C - Shaman
+3D - Wicce
+3E - Songstress
+3F = Buccaneer
+40 - BLANK
+41 = *Knight Commander 6(number refers to class menu position when using all class code)
+42 = *Knight Commander 5
+43 = *Knight Commander 4
+44 = *Knight Commander 3
+45 = *Knight Commander 2
+46 = Knight Commander(Ozma)
+47 = *Knight Commander 1
+48 = *Death Templar
+49 = *Dark Bishop
+4A = *Assassin
+4B = *Death Knight
+4C = *Dark Lord 2
+4D = *Dark Lord 1
+4E = *Revenant
+4F - Blank
+50 - Blank
+51 - Templar
+52 - Templar
+53 - Templar
+54 - Templar
+5A - Templar
+6A - BLANK
+7A - Grim Reaper
+8A - Duinshee
+9A - Naga
+AA - BLANK
+BA - BLANK
+EA - Vija
+F1 - Rakshas
+FA - Nathalork
+FB - Xolotl
+FC - Tlaloc
+FD - Ifrit
+FE - Lygenstzel
+FF - BLANK
+
+33 20 18 14
+21 14 12 0E
