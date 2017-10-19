@@ -1,7 +1,7 @@
-Iventory Start Address
+Iventory Memory Layout
 ----------------------
-0x09202080
-0x09201CC0
+
+Iventory starts at 0x09201CC0
 
 
 Each item uses 4 bytes.
@@ -18,7 +18,13 @@ Can verify sorted item list by entering the Sell menu at a shop. Note that unsal
 Item Table
 -------------
 
-(Nothing) means the there will be no item present in you
+Special tags:
+
+* (Nothing) means the there will be no item.
+* (Cannot be sold)
+* (Dummied Item) usually only visible in Sell menu at a shop. Does nothing.
+
+List of Items:
 
 * 0x0: (Nothing)
 * 0x1: Magic Canvas
@@ -29,21 +35,133 @@ Item Table
 * 0x6: Portrait A
 * 0x7: Portrait B
 * 0x8: Portrait C
-
+* 0x9: Portrait G
+* 0xA: Portrait I
+* 0xB: Portrait D
+* 0xC: Portrait F
+* 0xD: Portrait J
+* 0xE: Portrait H
+* 0xF: Portrait E
+* 0x10: Portrait L
+* 0x11: Portrait K
+* 0x12: Doodles
+* 0x13: Victory Card
+* 0x14: Critical Card
+* 0x15: Revival Card
+* 0x16: Wealth Card
+* 0x17: Treasure Card
 * 0x18: Experience Card
-
+* 0x19: Faerie Card
+* 0x1A: Benefaction Card
+* 0x1B: Silence Card
+* 0x1C: Hexagram Card
+* 0x1D: Magic Rock (Not present in Inventory)
+* 0x1E: Wierd Shape
+* 0x1F: 3-way Ball (Not present in Inventory)
+* 0x20: Hyper Ball (Not present in Inventory)
+* 0x21: Rubber Ball (Not present in Inventory)
+* 0x22: Angel Statuette
+* 0x23: Faerie Statuette
+* 0x24: Goddess Statuette
+* 0x25: Illusion Doll
+* 0x26: Warrior Idol
+* 0x27: Veda Idol
 * 0x28: Goodie Box
-
+* 0x29: Jack-in-the-Box
+* 0x2A: Mirror of Knowledge
+* 0x2B: Magic Clay
+* 0x2C: Feather Pen
+* 0x2D: Piano
+* 0x2E: Cembalo
+* 0x2F: Mystical Shamisen
+* 0x30: Silver Trumpet
+* 0x31: Harmonica
+* 0x32: Lyre
+* 0x33: Violin
+* 0x34: Pipe Organ
+* 0x35: Conductor Baton
+* 0x36: Spectacles
+* 0x37: Magic Gumdrop
 * 0x38: Moonlight
-
+* 0x39: Silver Idol
+* 0x3A: Gold Idol
+* 0x3B: Lavish Doll
+* 0x3C: Wierd Doll
+* 0x3D: Sacrificial Doll
+* 0x3E: Silver Pendant
+* 0x3F: Storm Ring
+* 0x40: Green Bracelet
+* 0x41: Froghead
+* 0x42: Glass Slippers
+* 0x43: Regeneration Ring
+* 0x44: Ugly Accessory
+* 0x45: Lunar Charm
+* 0x46: Amulet of Antivenom
+* 0x47: Amulet of Freedom
 * 0x48: Amulet of Flexibility
-
+* 0x49: Purple Amulet
+* 0x4A: Mystic Amulet
+* 0x4B: Necklace
+* 0x4C: Chain of Might
+* 0x4D: Intimidation Pendant
+* 0x4E: Leaf Pendant
+* 0x4F: Ruby Pendant
+* 0x50: Star Necklace
+* 0x51: Faerie Tear
+* 0x52: Velvet Tear
+* 0x53: Silver Amulet
+* 0x54: Blue Talisman
+* 0x55: Talisman
+* 0x56: Lunar Talisman
+* 0x57: Gold Ring
 * 0x58: Princess Ring
-
+* 0x59: Ring of Healing
+* 0x5A: Ring of Mental Power
+* 0x5B: Ring of Wisdom
+* 0x5C: Heavy Ring
+* 0x5D: Weight Ring
+* 0x5E: Hefty Ring
+* 0x5F: Ring of Might
+* 0x60: Ring of Quietude (Dummied Item)
+* 0x61: Ring of Insanity
+* 0x62: Ring of Infinity
+* 0x63: Ring of the Accursed
+* 0x64: Ring of Avoidance
+* 0x65: Ring of Fusion
+* 0x66: Ring of Absorbsion
+* 0x67: Ring of Happiness
 * 0x68: Ring of Sadness
-
+* 0x69: Ring of Trust
+* 0x6A: Stardust Ring
+* 0x6B: Hammer Charm
+* 0x6C: Mallet Charm
+* 0x6D: Ring of Lightspeed
+* 0x6E: Meteor Ring
+* 0x6F: Ring of Lunacy
+* 0x70: Berserker Ring
+* 0x71: Shield Ring
+* 0x72: Ring of Resistance
+* 0x73: Aqua Ring
+* 0x74: Flare Ring
+* 0x75: Ring of the General
+* 0x76: Prism Ring
+* 0x77: Holy Ring
 * 0x78: Emerald Ring
-
+* 0x79: Water Ring
+* 0x7A: Fire Ring
+* 0x7B: Thunder Ring
+* 0x7C: Faerie Ring
+* 0x7D: Onyx Earring
+* 0x7E: Gold Earring
+* 0x7F: Ruby Earring
+* 0x80: Blood Earring
+* 0x81: Shield Earring
+* 0x82: Breeze Earring
+* 0x83: Earring of the Winds
+* 0x84: Lame Earring
+* 0x85: Gale Earring
+* 0x86: Hefty Earring
+* 0x87: Emerald Earring
 * 0x88: Star Earring
 * 0x89: Earring of Magnetism
 * 0x8A: Earring of Readiness
